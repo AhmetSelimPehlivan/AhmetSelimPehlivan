@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ahmet Selim
 - 🔭 I'm interested in AI projects, Tensorflow, Python, Java, C, C++, JS, Reactjs, and NodeJS.
-- 🌱 I’m currently learning Pytorch, LLM fine-tuning
+- 🌱 I’m currently learning Pytorch, Generative AI, LLM fine-tuning
 - 👯 I’m looking to collaborate on deep learning tasks and innovative apps
 - 👨‍💻 I'm currently collaborating with my friends on a mobile game project. It is available on Google Play and the App Store.
   <a href="https://play.google.com/store/apps/details?id=com.HyperactiveGames.GoalKeeper&pli=1"> AR GoalKeeper</a>
